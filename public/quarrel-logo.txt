@@ -1,0 +1,2 @@
+// Quarrel logo for the brand, placed in public directory for static access
+// File: public/quarrel-logo.png (add this file manually)
